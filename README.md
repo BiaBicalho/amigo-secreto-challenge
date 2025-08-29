@@ -1,16 +1,38 @@
-# Challenge Amigo Secreto - Oracle
-Aplicação que permite aos usuários inserir nomes de amigos em uma lista e logo realizar um sorteio para determinar quem é o amigo secreto.
+# 🎁 Desafio: Sorteio de Amigo Secreto
 
-O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
+Este projeto foi criado como parte do programa **Oracle One** para prática de lógica de programação usando **JavaScript**. A aplicação permite que o usuário adicione amigos a uma lista e, ao clicar em um botão, sorteie um amigo aleatório para um amigo secreto.
 
-Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
+## 🚀 Funcionalidades
 
-## <img width="22" height="22" alt="image" src="https://images.icon-icons.com/1581/PNG/512/3668839-gear-maintenance-service-technical_108029.png"/> Funcionalidades:
+- ✅ Adicionar amigos à lista
+- ✅ Limpar o campo de entrada após adicionar um nome
+- ✅ Visualizar a lista de amigos adicionados
+- ✅ Sortear aleatoriamente um amigo secreto
 
-- **Adicionar nomes:** Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+## 🧪 Como Usar
 
-- **Validar entrada:** Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+1. Clone o repositório para sua máquina local:
+   ```bash
+   git clone https://github.com/BiaBicalho/amigo-secreto-challenge.git
 
-- **Visualizar a lista:** Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
+2. Acesse a pasta do projeto
 
-- **Sorteio aleatório:** Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+3. Abra o arquivo index.html em seu navegador.
+
+4. Use a interface para adicionar nomes e realizar o sorteio.
+
+## 📁 Estrutura do Projeto
+
+```bash
+  ├── /assets            
+  ├── README.md
+  ├── app.js      
+  ├── index.html    
+  └── style.css
+```
+### 🛠 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
