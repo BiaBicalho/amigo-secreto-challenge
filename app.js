@@ -9,6 +9,7 @@ function adicionarAmigo(){
   }
   else{
     listaAmigos.push(amigo);
+    atualizarLista();
   }
   limparCampo();
 }
